@@ -1,6 +1,3 @@
-
-
-
 class Tasks{
 
   String title;
